@@ -17,11 +17,13 @@ public class SupaFactory implements TipMancareFactory {
 
 
     @Override
-    public FelMancare preparareFelMancare(TipFelMancare tip, int pret, int nrCalorii) {
-        return switch (tip){
-            case Supa.SupaCiuperci -> new SupaCiuperci(pret,nrCalorii,this.cantitate);
-            case Supa.SupaLegume -> new SupaLegume(nrCalorii, pret, this.cantitate);
-            case default -> null;
+    public FelMancare preparareFelMancare(TipFelMancare tip, float pret, int nrCalorii) {
+        if (tip instanceof Supa supaTip) {
+            return switch (supaTip) {
+                case SupaCiuperci -> new SupaCiuperci(pret, nrCalorii, this.cantitate);
+                case SupaLegume -> new SupaLegume(pret, nrCalorii, this.cantitate);
+            };
         }
+        return null;
     }
 }

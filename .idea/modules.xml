@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Seminar5/Adapter.FactoryMetod.PB3.RESTAURANT/Adapter.FactoryMetod.PB3.RESTAURANT.iml" filepath="$PROJECT_DIR$/Seminar5/Adapter.FactoryMetod.PB3.RESTAURANT/Adapter.FactoryMetod.PB3.RESTAURANT.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/BuilderVarInstance/BuilderVarInstance.iml" filepath="$PROJECT_DIR$/Seminar5/BuilderVarInstance/BuilderVarInstance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/BuilderWithoutInstance/BuilderWithoutInstance.iml" filepath="$PROJECT_DIR$/Seminar5/BuilderWithoutInstance/BuilderWithoutInstance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/Exercitii.iml" filepath="$PROJECT_DIR$/Exercitii/Exercitii.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMetod.PB3.RESTAURANT/FactoryMetod.PB3.RESTAURANT.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMetod.PB3.RESTAURANT/FactoryMetod.PB3.RESTAURANT.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Semina2.iml" filepath="$PROJECT_DIR$/Seminar2/Semina2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar 4/Seminar 4.iml" filepath="$PROJECT_DIR$/Seminar 4/Seminar 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />

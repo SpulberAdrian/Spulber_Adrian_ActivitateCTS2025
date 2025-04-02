@@ -17,16 +17,13 @@ public class DesertFactory implements TipMancareFactory{
     }
 
     @Override
-    public FelMancare preparareFelMancare(TipFelMancare tip, int pret, int nrCalorii) {
-        return switch (tip){
-            case Desert.Papanasi -> new Papanasi(pret,nrCalorii,crema);
-            case Desert.Clatite -> new Clatite(pret, nrCalorii, crema);
-            case default -> null;
+    public FelMancare preparareFelMancare(TipFelMancare tip, float pret, int nrCalorii) {
+        if(tip instanceof Desert desertTip){
+        return switch (desertTip) {
+            case Papanasi -> new Papanasi(pret, nrCalorii, crema);
+            case Clatite -> new Clatite(pret, nrCalorii, crema);
+            };
         }
+        return null;
     }
-
-    
-
-
-
 }

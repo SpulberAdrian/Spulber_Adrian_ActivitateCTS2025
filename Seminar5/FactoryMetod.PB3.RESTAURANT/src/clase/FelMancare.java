@@ -2,8 +2,8 @@ package clase;
 
 public abstract class FelMancare {
 
-    float pret;
-    int nrCalorii;
+    protected float pret;
+    protected int nrCalorii;
 
     public FelMancare(float pret, int nrCalorii) {
         this.pret = pret;
