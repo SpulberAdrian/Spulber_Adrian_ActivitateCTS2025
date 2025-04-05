@@ -14,6 +14,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_1.iml" filepath="$PROJECT_DIR$/Seminar_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii/pb1Spital-Builder/pb1Spital-Builder.iml" filepath="$PROJECT_DIR$/Exercitii/pb1Spital-Builder/pb1Spital-Builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii/pb2Spital-Factory/pb2Spital-Factory.iml" filepath="$PROJECT_DIR$/Exercitii/pb2Spital-Factory/pb2Spital-Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercitii/pb4Spital-Prototype/pb4Spital-Prototype.iml" filepath="$PROJECT_DIR$/Exercitii/pb4Spital-Prototype/pb4Spital-Prototype.iml" />
     </modules>
   </component>
 </project>
