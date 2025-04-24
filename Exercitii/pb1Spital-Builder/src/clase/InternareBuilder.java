@@ -1,3 +1,5 @@
+package clase;
+
 public class InternareBuilder implements IBuilder {
 
     private Boolean patRabatabil;

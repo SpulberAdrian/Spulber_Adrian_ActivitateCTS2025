@@ -14,7 +14,9 @@ public class Main {
         supa2.afisareSupe();
 
         ARezervare rezervare = new Rezervare("Daria", 15 ,"21.10.2020","25");
+        ARezervare rezervare1 = rezervare.copiaza();
         System.out.println(rezervare.toString());
+        System.out.println(rezervare1.toString());
 
     }
 }

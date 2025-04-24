@@ -1,3 +1,5 @@
+package Classes;
+
 public abstract class AMedicament {
         protected String denumire;
         protected int cantitateSubstantaActiva;

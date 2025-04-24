@@ -1,3 +1,5 @@
+package Classes;
+
 public class Medicament extends AMedicament {
     @Override
     public void descriere() {
@@ -20,7 +22,7 @@ public class Medicament extends AMedicament {
 
     @Override
     public String toString() {
-        final StringBuilder sb = new StringBuilder("Medicament{");
+        final StringBuilder sb = new StringBuilder("Classes.Medicament{");
         sb.append("denumire='").append(denumire).append('\'');
         sb.append(", cantitateSubstantaActiva=").append(cantitateSubstantaActiva);
         sb.append(", cantitateSubstantaSecundara=").append(cantitateSubstantaSecundara);

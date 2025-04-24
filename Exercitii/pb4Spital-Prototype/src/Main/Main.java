@@ -1,3 +1,8 @@
+package Main;
+
+import Classes.AMedicament;
+import Classes.Medicament;
+
 public class Main {
     public static void main(String[] args) {
         AMedicament medicament = new Medicament("Paracetamol", 20,15,"Nu");

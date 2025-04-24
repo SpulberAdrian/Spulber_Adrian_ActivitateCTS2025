@@ -1,3 +1,5 @@
+package clase;
+
 public class Internare {
     private Boolean patRabatabil;
     private Boolean micDejun;
@@ -13,7 +15,7 @@ public class Internare {
 
     @Override
     public String toString() {
-        final StringBuilder sb = new StringBuilder("Internare{");
+        final StringBuilder sb = new StringBuilder("clase.Internare{");
         sb.append("patRabatabil=").append(patRabatabil);
         sb.append(", micDejun=").append(micDejun);
         sb.append(", papuciDeCamera=").append(papuciDeCamera);

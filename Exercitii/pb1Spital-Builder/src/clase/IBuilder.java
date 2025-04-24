@@ -1,3 +1,5 @@
+package clase;
+
 public interface IBuilder {
     Internare buildInternare();
     IBuilder patRabatabil(Boolean patRabatabil);
