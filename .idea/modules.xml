@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Exercitii/EXPB1/BuilderBicicleta/BuilderBicicleta.iml" filepath="$PROJECT_DIR$/Exercitii/EXPB1/BuilderBicicleta/BuilderBicicleta.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/BuilderVarInstance/BuilderVarInstance.iml" filepath="$PROJECT_DIR$/Seminar5/BuilderVarInstance/BuilderVarInstance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/BuilderWithoutInstance/BuilderWithoutInstance.iml" filepath="$PROJECT_DIR$/Seminar5/BuilderWithoutInstance/BuilderWithoutInstance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 11/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/Seminar 11/ChainOfResponsibility/ChainOfResponsibility.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/EXPB02/EXPB02.iml" filepath="$PROJECT_DIR$/Exercitii/EXPB02/EXPB02.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/EXPB1/EXPB1.iml" filepath="$PROJECT_DIR$/Exercitii/EXPB1/EXPB1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/EXPB5/EXPB5.iml" filepath="$PROJECT_DIR$/Exercitii/EXPB5/EXPB5.iml" />
@@ -20,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar 10/Problema 2 - Observer/Problema 2 - Observer.iml" filepath="$PROJECT_DIR$/Seminar 10/Problema 2 - Observer/Problema 2 - Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar 8/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Seminar 8/Proxy/Proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar 10/Seminar 10.iml" filepath="$PROJECT_DIR$/Seminar 10/Seminar 10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 11/Seminar 11.iml" filepath="$PROJECT_DIR$/Seminar 11/Seminar 11.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar 2/Seminar 2.iml" filepath="$PROJECT_DIR$/Seminar 2/Seminar 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar 4/Seminar 4.iml" filepath="$PROJECT_DIR$/Seminar 4/Seminar 4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar 8/Seminar 8.iml" filepath="$PROJECT_DIR$/Seminar 8/Seminar 8.iml" />
@@ -30,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar_1.iml" filepath="$PROJECT_DIR$/Seminar_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/SingletonExamples/SingletonExamples.iml" filepath="$PROJECT_DIR$/Exercitii/SingletonExamples/SingletonExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar 11/Template/Template.iml" filepath="$PROJECT_DIR$/Seminar 11/Template/Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/pb1Spital-Builder/pb1Spital-Builder.iml" filepath="$PROJECT_DIR$/Exercitii/pb1Spital-Builder/pb1Spital-Builder.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/pb2Spital-Factory/pb2Spital-Factory.iml" filepath="$PROJECT_DIR$/Exercitii/pb2Spital-Factory/pb2Spital-Factory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercitii/pb4Spital-Prototype/pb4Spital-Prototype.iml" filepath="$PROJECT_DIR$/Exercitii/pb4Spital-Prototype/pb4Spital-Prototype.iml" />
