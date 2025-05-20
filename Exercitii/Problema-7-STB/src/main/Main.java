@@ -6,7 +6,7 @@ import clase.PrinterLaMultiAni;
 
 public class Main {
     public static void main(String[] args) {
-        boolean eZiNationala = true;
+        boolean eZiNationala = false;
         Printeaza printer = new PrinteazaBiletStandard();
         if(eZiNationala){
             printer = new PrinterLaMultiAni(printer);
